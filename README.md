@@ -2,7 +2,7 @@
 - 👀 I’m interested in the tech industry;its advancements and growth.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m eager to learn.
-- 📫 How to reach me [hills33@gmail.com]
+- 📫 How to reach me [hillsdiego33@gmail.com]
 - ⚡ Fun fact: ... coding brings clearer skin
 
 <!---
