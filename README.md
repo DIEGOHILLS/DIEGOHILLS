@@ -3,7 +3,7 @@
 <h1 align="center">🌍</h1>
 
 <p align="center">- 🚀 **Tech Enthusiast**: Passionate about the advancements and rapid growth in the tech industry.  <br>- 🌱 **Currently Learning**: I'm diving deep into web development and constantly expanding my skills.  <br>- 💡 **Eager to Grow**: Always on the lookout for opportunities to learn and contribute to exciting projects.  <br>- 📫 **Reach Me**: [hillsdiego33@gmail.com](mailto:hillsdiego33@gmail.com)  <br>- ⚡ **Fun Fact**: The first computer bug was an actual moth! No bugs like that in my code… (fingers crossed!).  <br><br>
-### 🚀 My Motto:<br>_"Building the future, one line of code at a time."_</p>
+### 🚀 <br>_"Building the future, one line of code at a time."_</p>
 
 <h2 align="left"></h2>
 
