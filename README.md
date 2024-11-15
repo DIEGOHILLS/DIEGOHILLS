@@ -1,25 +1,13 @@
 <h1 align="center"># 👋 Hi, I’m DIEGOHILLS</h1>
 
-###
-
 <h1 align="center">🌍</h1>
 
-###
-
 <h2 align="center">ABOUT ME</h2>
-
-###
 
 <p align="center">- 🚀 **Tech Enthusiast**: Passionate about the advancements and rapid growth in the tech industry.  <br>- 🌱 **Currently Learning**: I'm diving deep into web development and constantly expanding my skills.  <br>- 💡 **Eager to Grow**: Always on the lookout for opportunities to learn and contribute to exciting projects.  <br>- 📫 **Reach Me**: [hillsdiego33@gmail.com](mailto:hillsdiego33@gmail.com)  <br>- ⚡ **Fun Fact**: The first computer bug was an actual moth! No bugs like that in my code… (fingers crossed!).  <br><br>
 ### 🚀 My Motto:<br>_"Building the future, one line of code at a time."_</p>
 
-###
-
-<br clear="both">
-
 <h2 align="left"></h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -45,19 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/DIEGOHILLS/DIEGOHILLS/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
 
 <!---
 DIEGOHILLS/DIEGOHILLS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
