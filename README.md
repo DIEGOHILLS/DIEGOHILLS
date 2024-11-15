@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
 
-![Snake animation](https://github.com/DIEGOHILLS/DIEGOHILLS/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!---
