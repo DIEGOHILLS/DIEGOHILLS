@@ -2,8 +2,6 @@
 
 <h1 align="center">🌍</h1>
 
-<h2 align="center">ABOUT ME</h2>
-
 <p align="center">- 🚀 **Tech Enthusiast**: Passionate about the advancements and rapid growth in the tech industry.  <br>- 🌱 **Currently Learning**: I'm diving deep into web development and constantly expanding my skills.  <br>- 💡 **Eager to Grow**: Always on the lookout for opportunities to learn and contribute to exciting projects.  <br>- 📫 **Reach Me**: [hillsdiego33@gmail.com](mailto:hillsdiego33@gmail.com)  <br>- ⚡ **Fun Fact**: The first computer bug was an actual moth! No bugs like that in my code… (fingers crossed!).  <br><br>
 ### 🚀 My Motto:<br>_"Building the future, one line of code at a time."_</p>
 
@@ -32,6 +30,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
+
+![Snake animation](https://github.com/DIEGOHILLS/DIEGOHILLS/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
