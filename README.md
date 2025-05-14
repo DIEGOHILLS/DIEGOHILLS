@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 🚀 Tech Enthusiast: Passionate about the advancements and rapid growth in the tech industry.<br>- 🌱 Currently Learning: Diving deep into web development, focusing on frontend and backend technologies.<br>- 💡 Eager to Grow: Always seeking opportunities to collaborate, learn, and contribute to exciting projects.<br>- 📫 Reach Me: [hillsdiego33@gmail.com](mailto:hillsdiego33@gmail.com)<br>- ⚡ Fun Fact: The first computer bug was an actual moth! No bugs like that in my code… (fingers crossed!).<br><br>_"Building the future, one line of code at a time."_ 🚀
+- 🚀 Tech Enthusiast: Passionate about the advancements and rapid growth in the tech industry.<br>- 🌱 Currently Learning: Diving deep into web development, focusing on frontend and backend technologies.<br>- 💡 Eager to Grow: Always seeking opportunities to collaborate, learn, and contribute to exciting projects.<br>- 📫 Reach Me: [hillsdiego33@gmail.com](mailto:hillsdiego33@gmail.com)<br>- ⚡ Fun Fact: The first computer bug was an actual moth! No bugs like that in my code… (fingers crossed!).<br><br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ## 🌐 Socials:
